@@ -1,1 +1,3 @@
 adclick.g.doubleclick.net
+www.googleadservices.com
+googleadservices.com
